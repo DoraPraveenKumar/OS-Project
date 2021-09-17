@@ -1,6 +1,3 @@
 # OS-Project
 OPERATING SYSTEM PROJECT IN C
-kbhb
-kjbkbkvf
-kjbkbkjk
-bbkbk
+Done by Kelothu Shiva Prasad and Praveen
